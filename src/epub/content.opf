@@ -38,38 +38,43 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1586</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1586</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1586</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young woman who has been made pregnant by an unscrupulous man tries to force him to marry her secretly but much goes wrong with her plan.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Man and Wife&lt;/i&gt; is the ninth novel by Wilkie Collins, and was published in serial form in 1870. Like many of his other novels it has a complex plot and tackles social issues, in this case the then lax state of the marriage laws, particularly in Scotland and Ireland. As always, Collins deals carefully but frankly with human personal behavior. To avoid offending Victorian morals too greatly, much is implied rather than stated outright. Nevertheless, even dealing with such matters at all led to his novels being derided as “sensation ficton” by his critics. By today’s standards, of course, they wouldn’t even raise an eyebrow.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Man and Wife&lt;/i&gt;, the main character Anne Silvester has fallen pregnant to a muscular and handsome, but boorish man, Geoffrey Delamayn, to whom she is not married. She is working as a governess at a house in Scotland. Anne arranges to meet Delamayn secretly at a garden party and angrily demands that he fulfill his promise to marry her, that very day. He very reluctantly agrees to a secret, private marriage, knowing that a public marriage would badly affect his inheritance prospects. How is the marriage to be arranged quickly but kept quiet? Anne has a plan based on her understanding of the looseness of the marriage laws in Scotland. Naturally, of course, things go badly wrong with this plan and many complexities arise.&lt;/p&gt;
+			&lt;p&gt;Collins is deeply critical of the then-current state of marriage laws, both in how loosely they were framed, and in how little power over their own lives they gave to women once they were married, even to a brutal man. He also uses this novel to denounce the worship of sporting heroes and the obsession with physical prowess rather than mental superiority as a primary indication of male virtue.&lt;/p&gt;
+			&lt;p&gt;Though not as popular as his novels &lt;i&gt;The Woman in White&lt;/i&gt; and &lt;i&gt;The Moonstone&lt;/i&gt;, &lt;i&gt;Man and Wife&lt;/i&gt; received a good critical reception when it was released and was a commercial success.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1586</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Man_and_Wife</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wilkie-collins_man-and-wife</meta>
 		<dc:creator id="author">Wilkie Collins</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Collins, Wilkie</meta>
+		<meta property="se:name.person.full-name" refines="#author">William Wilkie Collins</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Wilkie_Collins</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79061084</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">John Collier</dc:contributor>
+		<meta property="file-as" refines="#artist">Collier, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Collier_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no90006902</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">James Rusk</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Rusk, James</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -84,14 +89,174 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-15.xhtml" id="chapter-15.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-16.xhtml" id="chapter-16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-17.xhtml" id="chapter-17.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-18.xhtml" id="chapter-18.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-19.xhtml" id="chapter-19.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-20.xhtml" id="chapter-20.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-21.xhtml" id="chapter-21.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-22.xhtml" id="chapter-22.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-23.xhtml" id="chapter-23.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-24.xhtml" id="chapter-24.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-25.xhtml" id="chapter-25.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-26.xhtml" id="chapter-26.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-27.xhtml" id="chapter-27.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-28.xhtml" id="chapter-28.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-29.xhtml" id="chapter-29.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-30.xhtml" id="chapter-30.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-31.xhtml" id="chapter-31.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-32.xhtml" id="chapter-32.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-33.xhtml" id="chapter-33.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-34.xhtml" id="chapter-34.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-35.xhtml" id="chapter-35.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-36.xhtml" id="chapter-36.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-37.xhtml" id="chapter-37.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-38.xhtml" id="chapter-38.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-39.xhtml" id="chapter-39.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-40.xhtml" id="chapter-40.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-41.xhtml" id="chapter-41.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-42.xhtml" id="chapter-42.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-43.xhtml" id="chapter-43.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-44.xhtml" id="chapter-44.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-45.xhtml" id="chapter-45.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-46.xhtml" id="chapter-46.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-47.xhtml" id="chapter-47.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-48.xhtml" id="chapter-48.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-49.xhtml" id="chapter-49.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-50.xhtml" id="chapter-50.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-51.xhtml" id="chapter-51.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-52.xhtml" id="chapter-52.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-53.xhtml" id="chapter-53.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-54.xhtml" id="chapter-54.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-55.xhtml" id="chapter-55.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-56.xhtml" id="chapter-56.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-57.xhtml" id="chapter-57.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/prologue-1.xhtml" id="prologue-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prologue-2.xhtml" id="prologue-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prologue.xhtml" id="prologue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-1.xhtml" id="scene-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-2.xhtml" id="scene-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-3.xhtml" id="scene-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-4.xhtml" id="scene-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-5.xhtml" id="scene-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-6.xhtml" id="scene-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-7.xhtml" id="scene-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-8.xhtml" id="scene-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-9.xhtml" id="scene-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-10.xhtml" id="scene-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-11.xhtml" id="scene-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-12.xhtml" id="scene-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-13.xhtml" id="scene-13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-14.xhtml" id="scene-14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-15.xhtml" id="scene-15.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-16.xhtml" id="scene-16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/story.xhtml" id="story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="prologue.xhtml"/>
+		<itemref idref="prologue-1.xhtml"/>
+		<itemref idref="prologue-2.xhtml"/>
+		<itemref idref="story.xhtml"/>
+		<itemref idref="scene-1.xhtml"/>
+		<itemref idref="chapter-1.xhtml"/>
+		<itemref idref="chapter-2.xhtml"/>
+		<itemref idref="chapter-3.xhtml"/>
+		<itemref idref="chapter-4.xhtml"/>
+		<itemref idref="chapter-5.xhtml"/>
+		<itemref idref="chapter-6.xhtml"/>
+		<itemref idref="chapter-7.xhtml"/>
+		<itemref idref="chapter-8.xhtml"/>
+		<itemref idref="scene-2.xhtml"/>
+		<itemref idref="chapter-9.xhtml"/>
+		<itemref idref="chapter-10.xhtml"/>
+		<itemref idref="chapter-11.xhtml"/>
+		<itemref idref="chapter-12.xhtml"/>
+		<itemref idref="chapter-13.xhtml"/>
+		<itemref idref="scene-3.xhtml"/>
+		<itemref idref="chapter-14.xhtml"/>
+		<itemref idref="chapter-15.xhtml"/>
+		<itemref idref="chapter-16.xhtml"/>
+		<itemref idref="scene-4.xhtml"/>
+		<itemref idref="chapter-17.xhtml"/>
+		<itemref idref="chapter-18.xhtml"/>
+		<itemref idref="chapter-19.xhtml"/>
+		<itemref idref="chapter-20.xhtml"/>
+		<itemref idref="chapter-21.xhtml"/>
+		<itemref idref="chapter-22.xhtml"/>
+		<itemref idref="chapter-23.xhtml"/>
+		<itemref idref="chapter-24.xhtml"/>
+		<itemref idref="chapter-25.xhtml"/>
+		<itemref idref="chapter-26.xhtml"/>
+		<itemref idref="chapter-27.xhtml"/>
+		<itemref idref="chapter-28.xhtml"/>
+		<itemref idref="scene-5.xhtml"/>
+		<itemref idref="chapter-29.xhtml"/>
+		<itemref idref="chapter-30.xhtml"/>
+		<itemref idref="scene-6.xhtml"/>
+		<itemref idref="chapter-31.xhtml"/>
+		<itemref idref="chapter-32.xhtml"/>
+		<itemref idref="chapter-33.xhtml"/>
+		<itemref idref="scene-7.xhtml"/>
+		<itemref idref="chapter-34.xhtml"/>
+		<itemref idref="chapter-35.xhtml"/>
+		<itemref idref="chapter-36.xhtml"/>
+		<itemref idref="chapter-37.xhtml"/>
+		<itemref idref="chapter-38.xhtml"/>
+		<itemref idref="scene-8.xhtml"/>
+		<itemref idref="chapter-39.xhtml"/>
+		<itemref idref="scene-9.xhtml"/>
+		<itemref idref="chapter-40.xhtml"/>
+		<itemref idref="scene-10.xhtml"/>
+		<itemref idref="chapter-41.xhtml"/>
+		<itemref idref="scene-11.xhtml"/>
+		<itemref idref="chapter-42.xhtml"/>
+		<itemref idref="chapter-43.xhtml"/>
+		<itemref idref="scene-12.xhtml"/>
+		<itemref idref="chapter-44.xhtml"/>
+		<itemref idref="scene-13.xhtml"/>
+		<itemref idref="chapter-45.xhtml"/>
+		<itemref idref="scene-14.xhtml"/>
+		<itemref idref="chapter-46.xhtml"/>
+		<itemref idref="scene-15.xhtml"/>
+		<itemref idref="chapter-47.xhtml"/>
+		<itemref idref="scene-16.xhtml"/>
+		<itemref idref="chapter-48.xhtml"/>
+		<itemref idref="chapter-49.xhtml"/>
+		<itemref idref="chapter-50.xhtml"/>
+		<itemref idref="chapter-51.xhtml"/>
+		<itemref idref="chapter-52.xhtml"/>
+		<itemref idref="chapter-53.xhtml"/>
+		<itemref idref="chapter-54.xhtml"/>
+		<itemref idref="chapter-55.xhtml"/>
+		<itemref idref="chapter-56.xhtml"/>
+		<itemref idref="chapter-57.xhtml"/>
+		<itemref idref="epilogue.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
