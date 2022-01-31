@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 header{
-	text-align: center;
 	margin-bottom: 1em;
+	text-align: center;
 }
 
 footer{
@@ -30,8 +30,8 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:signature"]{
