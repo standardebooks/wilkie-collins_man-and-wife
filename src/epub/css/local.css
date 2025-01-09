@@ -38,6 +38,10 @@ footer{
 	font-variant: small-caps;
 }
 
+.telegram{
+	font-variant: all-small-caps;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
