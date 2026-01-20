@@ -52,7 +52,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1586</dc:source>
 		<dc:source>https://archive.org/details/manandwife00colliala</dc:source>
-		<meta property="se:word-count">231708</meta>
+		<meta property="se:word-count">228312</meta>
 		<meta property="se:reading-ease.flesch">74.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Man_and_Wife_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wilkie-collins_man-and-wife</meta>
